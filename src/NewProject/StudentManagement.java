@@ -22,7 +22,7 @@ public class StudentManagement {
         System.out.println("All the things are clear");
     }
 
-    // Method to check if the student list is empty
+    
     public static boolean isEmpty() {
         return students.isEmpty();
     }
